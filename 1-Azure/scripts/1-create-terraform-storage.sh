@@ -1,9 +1,9 @@
 #!/bin/sh
 
 # Configuration
-RESOURCE_GROUP_NAME="devopshardway-rg"
-STORAGE_ACCOUNT_NAME="devopshardwaysa"
-LOCATION="uksouth"
+RESOURCE_GROUP_NAME="pk12devopshardway-rg"
+STORAGE_ACCOUNT_NAME="pk12devopshardwaysa"
+LOCATION="eastus"
 CONTAINER_NAME="tfstate"
 
 # Error handling function
