@@ -1,5 +1,5 @@
-name     = "devopsthehardway"
-location = "uksouth"
+name     = "pk12devopshardway"
+location = "eastus"
 
 tags = {
   "Purpose"     = "azure-devops-hardway"

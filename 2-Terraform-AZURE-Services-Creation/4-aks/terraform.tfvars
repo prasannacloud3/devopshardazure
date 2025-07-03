@@ -1,5 +1,5 @@
-name     = "devopsthehardway"
-location = "uksouth"
+name     = "pk12devopshardway"
+location = "eastus"
 
 kubernetes_version         = "1.32"
 agent_count                = 3
